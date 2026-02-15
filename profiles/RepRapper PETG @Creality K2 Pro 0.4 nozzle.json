@@ -1,0 +1,50 @@
+{
+    "base_id": "GFSA04",
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_max_volumetric_speed": [
+        "13"
+    ],
+    "filament_notes": [
+        "https://gemini.google.com/app/006980043eb4f1c6"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "RepRapper PETG @Creality K2 Pro 0.4 nozzle"
+    ],
+    "filament_vendor": [
+        "RepRapper PETG"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Generic PETG @Creality K2 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "RepRapper PETG @Creality K2 Pro 0.4 nozzle",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "26.1.31.14"
+}
